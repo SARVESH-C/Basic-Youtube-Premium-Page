@@ -67,7 +67,7 @@
 
 .ytPremium{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    height: 90%;
+    height: 200%;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -101,4 +101,14 @@
     font-size: 30px;
     font-weight: 100;
      
+}
+
+.features{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;    
+    height: 100%;
+    width: 95%;
+
 }
